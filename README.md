@@ -1,2 +1,3 @@
-# demo03-BrandonLam
+demo03
+BrandonLam
 for comp1800 purposes
